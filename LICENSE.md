@@ -1,4 +1,4 @@
-#  
+#  no-ban Script for hypershot offers the most advanced hypershot Script, with aimbot and custom skins. Perfect for dominating any match.
 
 
 
